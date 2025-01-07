@@ -8,8 +8,8 @@ namespace WEB_Karaoke.Controllers
         List<Visitor> _clientList = new List<Visitor>()
         {
             new Visitor {Id = 1,UserName = "Gek", MyStatus = Visitor.Status.Gold,SongList = new List<string>(){"Soung 1", "Soung 2" } },
-            new Visitor {Id = 1,UserName = "Don", MyStatus = Visitor.Status.Gold,SongList = new List<string>(){"Soung 3", "Soung 4" } },
-            new Visitor {Id = 1,UserName = "Max", MyStatus = Visitor.Status.Gold,SongList = new List<string>(){"Soung 5", "Soung 6" } }
+            new Visitor {Id = 2,UserName = "Don", MyStatus = Visitor.Status.Gold,SongList = new List<string>(){"Soung 3", "Soung 4" } },
+            new Visitor {Id = 3,UserName = "Max", MyStatus = Visitor.Status.Silver,SongList = new List<string>(){"Soung 5", "Soung 6" } }
 
         };
 
