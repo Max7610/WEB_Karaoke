@@ -1,0 +1,32 @@
+﻿@model List<WEB_Karaoke.Models.Visitor>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Регистрация стола</title>
+
+    <style>
+        body:
+        {
+            width:800px;
+            margin-left:20%;
+        }
+
+
+    </style>
+</head>
+<body>
+
+    <h3 align ="center">Добро пожаловать</h3>
+    <ol>
+        @foreach (var person in Model)
+        {
+            <li>@person.ToString </li>
+        }
+    </ol>
+    
+
+    </body>
+
+</html>
