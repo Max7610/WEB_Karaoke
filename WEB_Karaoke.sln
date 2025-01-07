@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEB_Karaoke", "WEB_Karaoke\WEB_Karaoke.csproj", "{461315A8-5E61-48AD-A83F-DC3796E45779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{461315A8-5E61-48AD-A83F-DC3796E45779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461315A8-5E61-48AD-A83F-DC3796E45779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461315A8-5E61-48AD-A83F-DC3796E45779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461315A8-5E61-48AD-A83F-DC3796E45779}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FB3CD97-A1D0-43FB-93C9-83ACE2F9BAB8}
+	EndGlobalSection
+EndGlobal
