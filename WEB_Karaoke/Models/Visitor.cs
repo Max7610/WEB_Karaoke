@@ -15,6 +15,10 @@
                 return $"id- {Id} Name-{UserName}  MyStatus-{MyStatus}";
             }
         }
+        public void AddSong(string song)
+        {
+            SongList.Append(song);
+        }
 
     }
 }
